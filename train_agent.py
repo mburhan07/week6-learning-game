@@ -2,6 +2,7 @@
 from tic_tac_toe import TicTacToe
 from q_learning_agent import QLearningAgent
 import random
+# Trainer handles running many games so the agent can learn from experience.
 
 class Trainer:
     """Train the Q-learning agent to play Tic-Tac-Toe"""
