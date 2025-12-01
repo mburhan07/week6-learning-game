@@ -15,3 +15,4 @@ In a terminal inside this folder:
 python train_agent.py
 - After training, the AI improved and consistently blocked my winning moves.
 - Self-driving cars use reinforcement learning to make safer driving decisions.
+- I learned how Q-learning updates values through rewards to improve decision-making.
