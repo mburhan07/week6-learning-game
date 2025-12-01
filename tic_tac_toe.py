@@ -60,6 +60,7 @@ class TicTacToe:
             return 0  # Tie
 
         return None  # Game continues
+# Display method prints the current state of the game board.
 
     def display(self):
         """Show the board nicely"""
